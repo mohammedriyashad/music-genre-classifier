@@ -30,7 +30,6 @@ Thumbs.db
 "Check_Dataset/" 
 "features/" 
 "EDA/" 
-"*.h5" 
 "*.joblib" 
 features.csv
 *.joblib
