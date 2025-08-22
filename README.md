@@ -5,8 +5,8 @@ A deep learning web application built with Streamlit that classifies music track
 
 ---
 
-![App Screenshot]([URL_TO_YOUR_SCREENSHOT.png])
-*(To add a screenshot: take a picture of your running app, upload it to the "Issues" tab of your GitHub repo, and copy-paste the generated image URL here.)*
+![App Screenshot](https://github.com/user-attachments/assets/a3d729ef-9c00-4f20-a075-58e5fddd8603)
+
 
 ## 📚 Project Overview
 
@@ -41,3 +41,11 @@ To run this project on your local machine, please follow the steps below.
 ```bash
 git clone https://github.com/[YOUR_GITHUB_USERNAME]/music-genre-classifier.git
 cd music-genre-classifier
+
+📂 Project Structure
+├── app.py                   # Main Streamlit application script
+├── Dockerfile               # Instructions for building the Docker container
+├── requirements.txt         # List of Python dependencies
+├── music_genre_cnn.h5       # The trained CNN model
+├── scaler.joblib            # The fitted StandardScaler
+└── README.md                # You are here!
