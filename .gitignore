@@ -30,9 +30,7 @@ Thumbs.db
 "Check_Dataset/" 
 "features/" 
 "EDA/" 
-"*.joblib" 
 features.csv
-*.joblib
 *EDA.py
 EDA.py
 cnn_trainer.py
