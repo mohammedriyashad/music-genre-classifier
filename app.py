@@ -14,6 +14,7 @@ import numpy as np
 import librosa
 #For loading the scaler object
 import joblib
+model = tf.keras.models.load_model("music_genre_cnn.h5")
 
 #-----Helper Function-------
 
