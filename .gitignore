@@ -7,7 +7,6 @@ archive*/
 *.tar
 *.gz
 *.csv
-*.h5
 *.npy
 *.pkl
 
@@ -35,7 +34,6 @@ Thumbs.db
 "*.joblib" 
 features.csv
 *.joblib
-*.h5
 *EDA.py
 EDA.py
 cnn_trainer.py
