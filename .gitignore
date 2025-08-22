@@ -1,0 +1,44 @@
+# Ignore virtual environment
+venv/
+
+# Ignore datasets & archives
+archive*/
+*.zip
+*.tar
+*.gz
+*.csv
+*.h5
+*.npy
+*.pkl
+
+# Ignore DVC cache
+.dvc/cache/
+
+# Ignore build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+"Check_Dataset/" 
+"features/" 
+"EDA/" 
+"*.h5" 
+"*.joblib" 
+features.csv
+*.joblib
+*.h5
+*EDA.py
+EDA.py
+cnn_trainer.py
+model_trainer.py
+Check_Dataset.py
+key.json
